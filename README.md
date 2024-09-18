@@ -6,11 +6,11 @@
 - 👨‍🏫 Teaching Assistant for CSC236 at the University of Toronto (Aug. 2024 - Present)
 - 🧑‍💻 Former Software Developer at [Savi Finance](https://savifinance.com) (May 2024 - Aug. 2024)
 
-### My Projects
+### Featured Projects
 - [Net Nurture: Your Personal CRM](https://github.com/nuhgooyin/net-nurture)
-- [Web Gallery](https://github.com/nuhgooyin/web-gallery)
-- [Personal Portfolio](https://github.com/nuhgooyin/Personal-Portfolio)
+- [Sokoban](https://github.com/nuhgooyin/sokoban)
 - [Down the Marianas Trench](https://github.com/nuhgooyin/Down-The-Marianas-Trench)
+- [Web Gallery](https://github.com/nuhgooyin/web-gallery)
 
 Check out my [personal portfolio](https://nuhgooy.in/) for a breakdown of all my projects + tailored resumes!
 
