@@ -9,8 +9,10 @@
 ### My Projects
 - [Net Nurture: Your Personal CRM](https://github.com/nuhgooyin/net-nurture)
 - [Web Gallery](https://github.com/nuhgooyin/web-gallery)
-- [Barney: The Adventure Game](https://github.com/nuhgooyin/barney-adventure)
-- [Down the Marianas Trench](https://github.com/nuhgooyin/marianas-trench)
+- [Personal Portfolio](https://github.com/nuhgooyin/Personal-Portfolio)
+- [Down the Marianas Trench](https://github.com/nuhgooyin/Down-The-Marianas-Trench)
+
+Check out my [personal portfolio](https://nuhgooy.in/) for a breakdown of all my projects + tailored resumes!
 
 ### My Extracurriculars
 - 💻 Tech Associate at Mathematical & Computational Sciences Society, University of Toronto (Aug. 2024 - Present)
@@ -19,11 +21,11 @@
 - 📚 Facilitator at Robert Gillespie Academic Skills Centre, University of Toronto (Sep. 2023 - Dec. 2023)
 
 ### My Interests
-- Building efficient and user-friendly CRM solutions
 - Developing web applications with modern tech stacks
 - Automating processes using AI and machine learning
 - Exploring microservice architectures and serverless computing
-- Teaching and mentoring in computer science and software development
+- Tinkering with embedded systems/IoTs and discovering more about low-level programming
+- Public speaking and leadership roles
 
 ### Languages and Frameworks
 <code><img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg"></code>
@@ -36,3 +38,7 @@
 <code><img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg"></code>
 <code><img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg"></code>
 <code><img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg"></code>
+<code><img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg"></code>
+<code><img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg"></code>
+<code><img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/googlecloud/googlecloud-original.svg"></code>
+<code><img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original.svg"></code>
