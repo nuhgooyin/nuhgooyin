@@ -27,9 +27,6 @@ Check out my [personal portfolio](https://nuhgooy.in/) for a breakdown of all my
 - Tinkering with embedded systems/IoTs and discovering more about low-level programming
 - Public speaking and leadership roles
 
-### Let's Connect!
-Enough about me, I'd like to hear more about you! You can reach me at [danduy.nguyen@mail.utoronto.ca](danduy.nguyen@mail.utoronto.ca)
-
 ### Languages and Frameworks
 <code><img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg"></code>
 <code><img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"></code>
@@ -44,3 +41,6 @@ Enough about me, I'd like to hear more about you! You can reach me at [danduy.ng
 <code><img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg"></code>
 <code><img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg"></code>
 <code><img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/googlecloud/googlecloud-original.svg"></code>
+
+### Let's Connect!
+Enough about me, I'd like to hear more about you! You can reach me at [danduy.nguyen@mail.utoronto.ca](danduy.nguyen@mail.utoronto.ca)
