@@ -10,7 +10,7 @@
 - [Net Nurture: Your Personal CRM](https://github.com/nuhgooyin/net-nurture)
 - [Sokoban](https://github.com/nuhgooyin/sokoban)
 - [Down the Marianas Trench](https://github.com/nuhgooyin/Down-The-Marianas-Trench)
-- [Web Gallery](https://github.com/nuhgooyin/web-gallery)
+- [Retro-style Web Gallery](https://github.com/nuhgooyin/Retro-Style-Gallery)
 
 Check out my [personal portfolio](https://nuhgooy.in/) for a breakdown of all my projects + tailored resumes!
 
