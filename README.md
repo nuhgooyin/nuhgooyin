@@ -5,6 +5,7 @@
 - 💼 Software Developer at [Saige](https://saige.com) (Aug. 2024 - Present)
 - 👨‍🏫 Teaching Assistant for CSC236 at the University of Toronto (Aug. 2024 - Present)
 - 🧑‍💻 Former Software Developer at [Savi Finance](https://savifinance.com) (May 2024 - Aug. 2024)
+- ⏱️ Coding since 6th grade, check out my first project here: [Pong Remake](https://github.com/nuhgooyin/Pong-Game)
 
 ### Featured Projects
 - [Net Nurture: Your Personal CRM](https://github.com/nuhgooyin/net-nurture)
