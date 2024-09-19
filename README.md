@@ -11,6 +11,7 @@
 - [Sokoban](https://github.com/nuhgooyin/sokoban)
 - [Down the Marianas Trench](https://github.com/nuhgooyin/Down-The-Marianas-Trench)
 - [Retro-style Web Gallery](https://github.com/nuhgooyin/Retro-Style-Gallery)
+- [Bloodlines: The Vietnam War](https://github.com/nuhgooyin/Bloodlines-The-Vietnam-War)
 
 Check out my [personal portfolio](https://nuhgooy.in/) for a breakdown of all my projects + tailored resumes!
 
