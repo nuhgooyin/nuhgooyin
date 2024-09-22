@@ -1,7 +1,7 @@
 ## 👋 Hi I'm Dan Nguyen
 
 ### About Me
-- 🎓 CS Specialist + Stats Major + Math Minor at the University of Toronto (2022 - 2026)
+- 🎓 CS Specialist + Math Minor at the University of Toronto (2022 - 2026)
 - 💼 Software Developer at [Saige](https://saige.com) (Aug. 2024 - Present)
 - 👨‍🏫 Teaching Assistant for CSC236 at the University of Toronto (Aug. 2024 - Present)
 - 🧑‍💻 Former Software Developer at [Savi Finance](https://savifinance.com) (May 2024 - Aug. 2024)
