@@ -2,7 +2,7 @@
 
 ### About Me
 - 🎓 CS Specialist + Math Minor at the University of Toronto (2022 - 2026)
-- <a href="https://emoji.gg/emoji/9567-amd"><img src="https://cdn3.emoji.gg/emojis/9567-amd.png" width="22px" height="22px" alt="AMD"></a> Incoming Software Engineering Intern at AMD (May 2025)
+- <a href="https://emoji.gg/emoji/9567-amd"><img src="https://cdn3.emoji.gg/emojis/9567-amd.png" width="20px" height="20px" alt="AMD"></a> Incoming Software Engineering Intern at AMD (May 2025)
 - 💼 Software Developer at [Saige](https://saige.com) (Aug. 2024 - Present)
 - 👨‍🏫 Teaching Assistant for CSC236 at the University of Toronto (Aug. 2024 - Present)
 - 🧑‍💻 Former Software Developer at [Savi Finance](https://savifinance.com) (May 2024 - Aug. 2024)
