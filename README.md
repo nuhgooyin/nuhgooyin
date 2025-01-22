@@ -2,6 +2,7 @@
 
 ### About Me
 - 🎓 CS Specialist + Math Minor at the University of Toronto (2022 - 2026)
+- 💸 AI/NLP Developer at [Ubineer](https://ubineer.com/) (Jan. 2025 - Present)
 - 💼 Software Developer at [Saige](https://www.realsaige.com/) (Aug. 2024 - Dec. 2024)
 - 👨‍🏫 Teaching Assistant for CSC236 at the University of Toronto (Aug. 2024 - Dec. 2024)
 - 🧑‍💻 Software Developer at [Savi Finance](https://financesavi.com/) (May 2024 - Aug. 2024)
