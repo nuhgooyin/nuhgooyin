@@ -1,7 +1,8 @@
 ## 👋 Hi I'm Dan Nguyen
 
 ### About Me
-- 🎓 CS Specialist + Math Minor at the University of Toronto (2022 - 2026)
+- 🎓 CS Specialist + Math Minor + Co-op at the University of Toronto (2022 - 2027)
+- <a href="https://emoji.gg/emoji/9567-amd"><img src="https://cdn3.emoji.gg/emojis/9567-amd.png" width="20px" height="20px" alt="AMD"></a> Incoming Software Engineering Intern at AMD (May 2025)
 - 💸 AI/NLP Developer at [Ubineer](https://ubineer.com/) (Jan. 2025 - Present)
 - 💼 Software Developer at [Saige](https://www.realsaige.com/) (Aug. 2024 - Dec. 2024)
 - 👨‍🏫 Teaching Assistant for CSC236 at the University of Toronto (Aug. 2024 - Dec. 2024)
