@@ -27,10 +27,10 @@ Check out my [personal portfolio](https://nuhgooy.in/) for a breakdown of all my
 
 ### My Interests
 - Developing web applications with modern tech stacks
-- Automating processes using AI and machine learning
 - Exploring microservice architectures and serverless computing
 - Tinkering with embedded systems/IoTs and discovering more about low-level programming
 - Public speaking and leadership roles
+- 🧗 Rock climbing, 🏸 badminton, and 🛹 longboarding!
 
 ### Languages and Frameworks
 <code><img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg"></code>
