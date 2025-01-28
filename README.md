@@ -30,7 +30,7 @@ Check out my [personal portfolio](https://nuhgooy.in/) for a breakdown of all my
 - Exploring microservice architectures and serverless computing
 - Tinkering with embedded systems/IoTs and discovering more about low-level programming
 - Public speaking and leadership roles
-- 🧗 Rock climbing, 🏸 badminton, and 🛹 longboarding!
+- 🧗 Rock climbing, 🏸 Badminton, and 🛹 Longboarding!
 
 ### Languages and Frameworks
 <code><img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg"></code>
