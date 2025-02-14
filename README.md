@@ -6,7 +6,7 @@
 - 💸 AI/NLP Developer Intern at [Ubineer](https://ubineer.com/) (Jan. 2025 - Present)
 - 💼 Full Stack Software Developer at [Saige](https://www.realsaige.com/) (Aug. 2024 - Dec. 2024)
 - 👨‍🏫 Teaching Assistant for CSC236 at the University of Toronto (Aug. 2024 - Dec. 2024)
-- 🧑‍💻 Software Developer Co-op at [Savi Finance](https://financesavi.com/) (May 2024 - Aug. 2024)
+- 🧑‍💻 Software Developer Intern at [Savi Finance](https://financesavi.com/) (May 2024 - Aug. 2024)
 - 🧠 Full-stack Developer Intern at [Sunryse](https://www.linkedin.com/company/sunryseapp) (Jan. 2024 - Apr. 2024)
 - ⏱️ Coding since 6th grade, check out my first project here: [Pong Remake](https://github.com/nuhgooyin/Pong-Game)
 
