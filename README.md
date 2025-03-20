@@ -3,7 +3,10 @@
 ### About Me
 - 🎓 CS Specialist + Math Minor + Co-op at the University of Toronto (2022 - 2027)
 - <a href="https://emoji.gg/emoji/9567-amd"><img src="https://cdn3.emoji.gg/emojis/9567-amd.png" width="20px" height="20px" alt="AMD"></a> Incoming Software Engineering Intern at AMD (May 2025)
+
+### My Experiences
 - 💸 AI/NLP Developer Intern at [Ubineer](https://ubineer.com/) (Jan. 2025 - Present)
+- 🔬 Undergraduate ML Researcher at the University of Toronto (Jan. 2025 - Present)
 - 💼 Full Stack Software Developer at [Saige](https://www.realsaige.com/) (Aug. 2024 - Dec. 2024)
 - 👨‍🏫 Teaching Assistant for CSC236 at the University of Toronto (Aug. 2024 - Dec. 2024)
 - 🧑‍💻 Software Developer Intern at [Savi Finance](https://financesavi.com/) (May 2024 - Aug. 2024)
@@ -20,11 +23,11 @@
 Check out my [personal portfolio](https://nuhgooy.in/) for a breakdown of all my projects + tailored resumes!
 
 ### My Extracurriculars
-- 🚗 Infrastructure Developer, [aUToronto](https://www.autodrive.utoronto.ca/) (autonomous vehicle design team), University of Toronto (Sep. 2024 - Present)
-- 💻 Tech Associate at Mathematical & Computational Sciences Society, University of Toronto (Aug. 2024 - Present)
-- 🎤 Vice President at Student Society for Algorithmic Modelling, University of Toronto (June 2023 - May 2024)
-- 🎉 Logistics Officer at Computer Science Student Society, University of Toronto (June 2023 - May 2024)
-- 📚 Facilitator at Robert Gillespie Academic Skills Centre, University of Toronto (Sep. 2023 - Dec. 2023)
+- 🚗 Infrastructure Developer at [aUToronto](https://www.autodrive.utoronto.ca/) (autonomous vehicle design team), University of Toronto (Sep. 2024 - Present)
+- 💻 Tech Associate at the Mathematical & Computational Sciences Society, University of Toronto (Aug. 2024 - Present)
+- 🎤 Vice President at the Student Society for Algorithmic Modelling, University of Toronto (June 2023 - May 2024)
+- 🎉 Logistics Officer at the Computer Science Student Society, University of Toronto (June 2023 - May 2024)
+- 📚 Facilitator at the Robert Gillespie Academic Skills Centre, University of Toronto (Sep. 2023 - Dec. 2023)
 
 ### My Interests
 - Developing web applications with modern tech stacks
