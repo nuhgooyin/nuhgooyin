@@ -1,7 +1,7 @@
 ## 👋 Hi I'm Dan Nguyen
 
 ### About Me
-- 🎓 CS Specialist + Math Minor + Co-op at the University of Toronto (2022 - 2027)
+- 🎓 CS Specialist, Math Minor at the University of Toronto (2022 - 2027)
 - <a href="https://emoji.gg/emoji/9567-amd"><img src="https://cdn3.emoji.gg/emojis/9567-amd.png" width="20px" height="20px" alt="AMD"></a> Incoming Software Engineering Intern at AMD (May 2025)
 - 💸 AI/NLP Developer Intern at [Ubineer](https://ubineer.com/) (Jan. 2025 - Present)
 - 🔬 Undergraduate ML Researcher at the University of Toronto (Jan. 2025 - Present)
@@ -18,7 +18,7 @@
 - [Retro-style Web Gallery](https://github.com/nuhgooyin/Retro-Style-Gallery)
 - [Bloodlines: The Vietnam War](https://github.com/nuhgooyin/Bloodlines-The-Vietnam-War)
 
-Check out my [personal portfolio](https://nuhgooy.in/) for a breakdown of all my projects + tailored resumes!
+Check out my [personal portfolio](https://nuhgooy.in/) for a breakdown of all my projects!
 
 ### My Extracurriculars
 - 🚗 Infrastructure Developer at [aUToronto](https://www.autodrive.utoronto.ca/) (autonomous vehicle design team), University of Toronto (Sep. 2024 - Present)
@@ -28,11 +28,9 @@ Check out my [personal portfolio](https://nuhgooy.in/) for a breakdown of all my
 - 📚 Facilitator at the Robert Gillespie Academic Skills Centre, University of Toronto (Sep. 2023 - Dec. 2023)
 
 ### My Interests
-- Developing web applications with modern tech stacks
-- Exploring microservice architectures and serverless computing
-- Tinkering with embedded systems/IoTs and discovering more about low-level programming
 - Public speaking and leadership roles
-- 🧗 Rock climbing, 🏸 Badminton, and 🛹 Longboarding!
+- 🧗 Rock climbing, 🏸 Badminton, and 🛹 longboarding
+- As cliché as it may sound, I find almost everything interesting! I love learning about new things and can get pretty invested as I learn more about it.
 
 ### Languages and Frameworks
 <code><img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg"></code>
