@@ -4,11 +4,14 @@
 - 🎓 CS Specialist, Math Minor at the University of Toronto (2022 - 2027)
 - <a href="https://emoji.gg/emoji/9567-amd"><img src="https://cdn3.emoji.gg/emojis/9567-amd.png" width="20px" height="20px" alt="AMD"></a> Software Engineer Intern on the NPU Diagnostics team at AMD (May 2025 - Present)
 - 🔬 Undergraduate ML Researcher at the University of Toronto (Jan. 2025 - Present)
+
+### My Past Experiences
 - 💸 AI/NLP Developer Intern at [Ubineer](https://ubineer.com/) (Jan. 2025 - Apr. 2025)
 - 💼 Full Stack Software Developer at [Saige](https://www.realsaige.com/) (Aug. 2024 - Dec. 2024)
 - 👨‍🏫 Teaching Assistant for CSC236 at the University of Toronto (Aug. 2024 - Dec. 2024)
 - 🧑‍💻 Software Developer Intern at [Savi Finance](https://financesavi.com/) (May 2024 - Aug. 2024)
 - 🧠 Full-stack Developer Intern at [Sunryse](https://www.linkedin.com/company/sunryseapp) (Jan. 2024 - Apr. 2024)
+- 🏢 Research Analyst Intern at [Definity](https://www.definityfinancial.com/) (May 2023 - Aug. 2023)
 - ⏱️ Coding since 6th grade, check out my first project here: [Pong Remake](https://github.com/nuhgooyin/Pong-Game)
 
 ### Featured Projects
