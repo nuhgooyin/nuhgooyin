@@ -24,7 +24,7 @@
 Check out my [personal portfolio](https://nuhgooy.in/) for a breakdown of all my projects!
 
 ### My Extracurriculars
-- 🚗 Infrastructure Developer at [aUToronto](https://www.autodrive.utoronto.ca/) (autonomous vehicle design team), University of Toronto (Sep. 2024 - Aug. 2025)
+- 🚗 Infrastructure Developer at [aUToronto](https://www.autodrive.utoronto.ca/) (autonomous vehicle design team), University of Toronto (Sep. 2024 - Apr. 2025)
 - 💻 Tech Associate at the Mathematical & Computational Sciences Society, University of Toronto (June 2024 - May 2025)
 - 🎤 Vice President at the Student Society for Algorithmic Modelling, University of Toronto (June 2023 - May 2024)
 - 🎉 Logistics Officer at the Computer Science Student Society, University of Toronto (June 2023 - May 2024)
