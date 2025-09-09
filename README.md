@@ -3,7 +3,7 @@
 ### About Me
 - 🎓 CS Specialist, Math Minor at the University of Toronto (2022 - 2027)
 - <a href="https://emoji.gg/emoji/9567-amd"><img src="https://cdn3.emoji.gg/emojis/9567-amd.png" width="20px" height="20px" alt="AMD"></a> Software Engineer Intern on the NPU Diagnostics team at AMD (May 2025 - Present)
-- 🔬 Undergraduate ML Researcher at the University of Toronto (Jan. 2025 - Present)
+- 🔬 Undergraduate ML Researcher at the University of Toronto (Jan. 2025 - Aug. 2025)
 - 👨‍🏫 Teaching Assistant for CSC236 at the University of Toronto (Aug. 2024 - Dec. 2024)
 
 ### My Past Experiences
