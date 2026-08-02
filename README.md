@@ -1,8 +1,9 @@
 ## 👋 Hi I'm Dan Nguyen
 
 ### About Me
-- 🎓 CS Specialist, Math Minor at the University of Toronto (2022 - 2027)
-- <a href="https://emoji.gg/emoji/9567-amd"><img src="https://cdn3.emoji.gg/emojis/9567-amd.png" width="20px" height="20px" alt="AMD"></a> Software Engineer Intern on the NPU Diagnostics team at AMD (May 2025 - Present)
+- 🎓 Computer Science Specialist at the University of Toronto (2022 - 2027)
+- 🎓 Applied Statistics Major, Math Minor at the University of Toronto (2022 - 2027)
+- <a href="https://emoji.gg/emoji/9567-amd"><img src="https://cdn3.emoji.gg/emojis/9567-amd.png" width="20px" height="20px" alt="AMD"></a> Software Engineer Intern on the NPU Diagnostics team at AMD (May 2025 - Aug. 2026)
 - 🔬 Undergraduate ML Researcher at the University of Toronto (Jan. 2025 - Aug. 2025)
 - 👨‍🏫 Teaching Assistant for CSC236 at the University of Toronto (Aug. 2024 - Dec. 2024)
 
@@ -24,6 +25,7 @@
 Check out my [personal portfolio](https://nuhgooy.in/) for a breakdown of all my projects!
 
 ### My Extracurriculars
+- 🚗 State Estimation / Localization Developer at [aUToronto](https://www.autodrive.utoronto.ca/) (autonomous vehicle design team), University of Toronto (Sep. 2025 - Apr. 2026)
 - 🚗 Infrastructure Developer at [aUToronto](https://www.autodrive.utoronto.ca/) (autonomous vehicle design team), University of Toronto (Sep. 2024 - Apr. 2025)
 - 💻 Tech Associate at the Mathematical & Computational Sciences Society, University of Toronto (June 2024 - May 2025)
 - 🎤 Vice President at the Student Society for Algorithmic Modelling, University of Toronto (June 2023 - May 2024)
