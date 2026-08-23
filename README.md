@@ -30,7 +30,6 @@ Check out my [personal portfolio](https://nuhgooy.in/) for a breakdown of all my
 - 💻 Tech Associate at the Mathematical & Computational Sciences Society, University of Toronto (June 2024 - May 2025)
 - 🎤 Vice President at the Student Society for Algorithmic Modelling, University of Toronto (June 2023 - May 2024)
 - 🎉 Logistics Officer at the Computer Science Student Society, University of Toronto (June 2023 - May 2024)
-- 📚 Facilitator at the Robert Gillespie Academic Skills Centre, University of Toronto (Sep. 2023 - Dec. 2023)
 
 ### My Interests
 - Public speaking and leadership roles
