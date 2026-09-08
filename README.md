@@ -29,27 +29,11 @@ Check out my [personal portfolio](https://nuhgooy.in/) for a breakdown of all my
 - 🚗 Infrastructure Developer at [aUToronto](https://www.autodrive.utoronto.ca/) (autonomous vehicle design team), University of Toronto (Sep. 2024 - Aug. 2025)
 - 💻 Tech Associate at the Mathematical & Computational Sciences Society, University of Toronto (June 2024 - May 2025)
 - 🎤 Vice President at the Student Society for Algorithmic Modelling, University of Toronto (June 2023 - May 2024)
-- 🎉 Logistics Officer at the Computer Science Student Society, University of Toronto (June 2023 - May 2024)
 
 ### My Interests
 - Public speaking and leadership roles
 - 🧗 Rock climbing, 🏸 Badminton, and 🛹 longboarding
 - As cliché as it may sound, I find almost everything interesting! I love learning about new things and can get pretty invested as I learn more about it.
-
-### Languages and Frameworks
-<code><img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg"></code>
-<code><img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"></code>
-<code><img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"></code>
-<code><img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg"></code>
-<code><img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-plain.svg"></code>
-<code><img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg"></code>
-<code><img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg"></code>
-<code><img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg"></code>
-<code><img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg"></code>
-<code><img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg"></code>
-<code><img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg"></code>
-<code><img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg"></code>
-<code><img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/googlecloud/googlecloud-original.svg"></code>
 
 ### Let's Connect!
 Enough about me, I'd like to hear more about you! You can reach me at [danduy.nguyen@mail.utoronto.ca](danduy.nguyen@mail.utoronto.ca)
