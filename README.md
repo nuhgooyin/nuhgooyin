@@ -13,7 +13,6 @@
 - 🧑‍💻 Software Developer Intern at [Savi Finance](https://financesavi.com/) (May 2024 - Aug. 2024)
 - 🧠 Full-stack Developer Intern at [Sunryse](https://www.linkedin.com/company/sunryseapp) (Jan. 2024 - Apr. 2024)
 - 🏢 Research Analyst Intern at [Definity](https://www.definityfinancial.com/) (May 2023 - Aug. 2023)
-- ⏱️ Coding since 6th grade, check out my first project here: [Pong Remake](https://github.com/nuhgooyin/Pong-Game)
 
 ### Featured Projects
 - [Net Nurture: Your Personal CRM](https://github.com/nuhgooyin/net-nurture)
@@ -21,6 +20,8 @@
 - [Down the Marianas Trench](https://github.com/nuhgooyin/Down-The-Marianas-Trench)
 - [Retro-style Web Gallery](https://github.com/nuhgooyin/Retro-Style-Gallery)
 - [Bloodlines: The Vietnam War](https://github.com/nuhgooyin/Bloodlines-The-Vietnam-War)
+- [Pong Remake](https://github.com/nuhgooyin/Pong-Game)
+- [AutoDocs](https://github.com/CSC392-CSC492-Building-AI-ML-systems/educational-AI-agent)
 
 Check out my [personal portfolio](https://nuhgooy.in/) for a breakdown of all my projects!
 
