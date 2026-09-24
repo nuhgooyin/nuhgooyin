@@ -9,8 +9,6 @@
 - [Pong Remake](https://github.com/nuhgooyin/Pong-Game)
 - [AutoDocs](https://github.com/CSC392-CSC492-Building-AI-ML-systems/educational-AI-agent)
 
-Check out my [personal portfolio](https://nuhgooy.in/) for a breakdown of all my projects
-
 ### Interests
 - Public speaking and leadership roles
 - 🧗 Rock climbing, 🏸 Badminton, and trying new sports
